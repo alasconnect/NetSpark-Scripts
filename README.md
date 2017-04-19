@@ -10,6 +10,7 @@ Any network administrator who's sick of manually touching things! These are cert
 * Netmiko
 * TinyDB (For DB support)
 * pyperclip (for formatCW.py script)
+* netaddr for IP calc support
 
 ## What are the scripts/what do they do?
 
